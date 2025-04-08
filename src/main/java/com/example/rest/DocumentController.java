@@ -18,6 +18,8 @@ import com.example.service.DocumentService;
 @RequestMapping(value = "/doc-api")
 public class DocumentController {
 
+
+        int x = 100;
      public void m1()
      {
 
