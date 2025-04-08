@@ -18,6 +18,12 @@ import com.example.service.DocumentService;
 @RequestMapping(value = "/doc-api")
 public class DocumentController {
 
+     public void m1()
+     {
+
+     }
+ 
+
 	@Autowired
 	private DocumentService documentService;
 
